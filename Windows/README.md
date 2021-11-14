@@ -6,23 +6,21 @@ To reduce the work of managing data in Hotels, I created a Desktop-GUI applicati
 
 ## To open the application you should run the main.py file
 
-*Note: Before running the application install XAMPP in your Mac*
+*Note: Before running the application install XAMPP in your Windows*
 
 Click the below link to download and install xampp :
 
-https://drive.google.com/file/d/1XSevRCV-B8W0tkA4xlJ-Cmcvs-_gfAto/view?usp=sharing
+https://drive.google.com/drive/folders/1YkHcKF-5tXjLwjpYx-7rjmHI7WzcEDKl?usp=sharing
 
 ## Here's how you connect the server with xampp :
 
 - Open the xampp application.
 
-- You will see Manage Servers tab.
+- You will see Apache and Mysql Servers.
 
-- Select the tab as you can see the server and status.
+- Once you click Start. The server will be running.
 
-- Once you click Start All. The server will be running.
-
-
+- Start both the Servers and Minimize it.
 
 
 
@@ -60,7 +58,7 @@ https://drive.google.com/file/d/1XSevRCV-B8W0tkA4xlJ-Cmcvs-_gfAto/view?usp=shari
 ## Now run the <main.py> file
 ###### Main Page
 
-![Hotel](https://user-images.githubusercontent.com/85886688/141691781-b2e04f1d-60ed-4d6e-81f1-5e0ed1fc8f87.png)
+![Hotel](https://user-images.githubusercontent.com/85886688/141694583-de018b49-960e-41d2-a8bd-8dfe876325af.png)
 
 ###### Login Page
 
@@ -68,7 +66,7 @@ https://drive.google.com/file/d/1XSevRCV-B8W0tkA4xlJ-Cmcvs-_gfAto/view?usp=shari
 
 ###### Admin Page
 
-![Section](https://user-images.githubusercontent.com/85886688/141691838-18ad5f62-857d-4f56-96de-911f16af46bc.png)
+![Section](https://user-images.githubusercontent.com/85886688/141694595-bc001e81-02ee-4f3d-bb70-0b5666e9f61b.png)
 
 ###### Employee Section
 
@@ -100,7 +98,7 @@ https://drive.google.com/file/d/1XSevRCV-B8W0tkA4xlJ-Cmcvs-_gfAto/view?usp=shari
 
 ###### Update Password
 
-![Pass](https://user-images.githubusercontent.com/85886688/129891515-00c94a08-02fc-4305-a425-21a8cef6c624.png)
+![Pass](https://user-images.githubusercontent.com/85886688/141694571-40500fcc-b38f-4c22-bc63-3db1952f2bf7.png)
 
 ###### Room Section
 
