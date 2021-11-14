@@ -12,7 +12,7 @@ Click the below link to download and install xampp :
 
 https://drive.google.com/file/d/1XSevRCV-B8W0tkA4xlJ-Cmcvs-_gfAto/view?usp=sharing
 
-### Here's how you connect the server with xampp :
+## Here's how you connect the server with xampp :
 
 - Open the xampp application.
 
@@ -26,7 +26,7 @@ https://drive.google.com/file/d/1XSevRCV-B8W0tkA4xlJ-Cmcvs-_gfAto/view?usp=shari
 
 
 
-### After connecting with the required server, Database must be imported. Follow the below process :
+## After connecting with the server, Database must be imported. Follow the below process :
 
 *Note: Before importing the database, create an empty database with the name 'Hotel Management'*
 
@@ -48,7 +48,16 @@ https://drive.google.com/file/d/1XSevRCV-B8W0tkA4xlJ-Cmcvs-_gfAto/view?usp=shari
 
 -- If you imported a table, the newly-imported table will appear in the list of tables.
 
-## Now run the main.py file
+## Download the required Modules using Terminal :
+ *Just copy the below command and press enter !*
+ 
+ ### *pip install PyMySql*
+ 
+ ### *pip install Pillow*
+ 
+ ### *pip install tkcalendar*
+
+## Now run the <main.py> file
 ###### Main Page
 
 ![Hotel](https://user-images.githubusercontent.com/85886688/141691781-b2e04f1d-60ed-4d6e-81f1-5e0ed1fc8f87.png)
