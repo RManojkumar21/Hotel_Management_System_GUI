@@ -51,43 +51,43 @@ https://drive.google.com/file/d/1XSevRCV-B8W0tkA4xlJ-Cmcvs-_gfAto/view?usp=shari
 ## Now run the main.py file
 ###### Front Page
 
-![Hotel](https://user-images.githubusercontent.com/85886688/129890579-d76dd8b5-57e0-44f0-a3da-286a1557390f.png)
+![Hotel](https://user-images.githubusercontent.com/85886688/141691781-b2e04f1d-60ed-4d6e-81f1-5e0ed1fc8f87.png)
 
 ###### Login Page
 
-![Login](https://user-images.githubusercontent.com/85886688/129890639-dfde0b27-d13f-41b8-8d5b-380669382ddf.png)
+![Login](https://user-images.githubusercontent.com/85886688/141691823-08d2e875-1f58-4779-b91e-dbbe831fc3dc.png)
 
 ###### Admin Page
 
-![Section](https://user-images.githubusercontent.com/85886688/129890670-93436e05-28b6-458a-acf2-038b560b92ee.png)
+![Section](https://user-images.githubusercontent.com/85886688/141691838-18ad5f62-857d-4f56-96de-911f16af46bc.png)
 
 ###### Employee Section
 
-![Empsec](https://user-images.githubusercontent.com/85886688/129891221-ed09533a-988c-4d0b-8ea7-6d73d8260021.png)
+![EmpSec](https://user-images.githubusercontent.com/85886688/141691936-77fc6665-3af9-4064-8617-281d91783bd5.png)
 
 ###### Add, Update, Delete Employee Record
 
-![Employee](https://user-images.githubusercontent.com/85886688/129891213-7519d6f4-b92b-4a71-be06-4bd4e7d02c4a.png)
+![Emp2](https://user-images.githubusercontent.com/85886688/141691947-2f217faa-67b9-441b-afde-f9fb9ed91170.png)
 
 ###### Employee Records
 
-![viewemp](https://user-images.githubusercontent.com/85886688/129891237-2ab5545c-82d6-46ce-a9ae-2fba5b5728a3.png)
+![viewemp](https://user-images.githubusercontent.com/85886688/141691957-dd7f3b2b-8fba-4a73-878a-1d77ca2aafcb.png)
 
 ###### Food Section
 
-![Foodsec](https://user-images.githubusercontent.com/85886688/129891400-932706ce-2b96-41a1-b8bb-b5232f11a458.png)
+![FoodSec](https://user-images.githubusercontent.com/85886688/141691969-7a9dd71c-76e5-44cf-8720-74a9fd56739c.png)
 
 ###### Food Stuff
 
-![Receipt](https://user-images.githubusercontent.com/85886688/129903559-0a24dab9-d597-4e80-981d-89283acfb020.png)
+![Receipt](https://user-images.githubusercontent.com/85886688/141691977-a34b2490-d61f-4546-9531-2f26a77dd397.png)
 
 ###### Calculator 
 
-![Food1](https://user-images.githubusercontent.com/85886688/129902303-c1ee741f-da4e-48eb-84ba-9381ddf1dde1.png)
+![Food](https://user-images.githubusercontent.com/85886688/141692010-43db5143-7d2b-4417-a01b-3d84aaa62130.png)
 
 ###### Food Stocks
 
-![viewfood](https://user-images.githubusercontent.com/85886688/129891431-3acadf0c-9f11-4b03-b8a7-ecc9d4ab654b.png)
+![viewfood](https://user-images.githubusercontent.com/85886688/141691998-b7963807-c9fa-48a7-8c73-ee31848dd591.png)
 
 ###### Update Password
 
@@ -95,14 +95,14 @@ https://drive.google.com/file/d/1XSevRCV-B8W0tkA4xlJ-Cmcvs-_gfAto/view?usp=shari
 
 ###### Room Section
 
-![Roomsec](https://user-images.githubusercontent.com/85886688/129891500-8a5db6f0-ef0b-4ce4-a2b0-48e1dd46fee5.png)
+![RoomSec](https://user-images.githubusercontent.com/85886688/141692018-6af966e4-0ebd-4224-8319-6ccfe9e99dcc.png)
 
 ###### Room Info
 
-![Room](https://user-images.githubusercontent.com/85886688/129891494-6bfa2b3b-4dbe-4819-ba93-e75499e7ed2a.png)
+![Room](https://user-images.githubusercontent.com/85886688/141692023-d6ff82a1-d2bc-43fe-9901-fb25fe1edaad.png)
 
 ###### Customer Details
 
-![viewroom](https://user-images.githubusercontent.com/85886688/129891519-58a06211-add9-4f86-afe6-57a8524ec048.png)
+![viewroom](https://user-images.githubusercontent.com/85886688/141692062-30b6db62-421a-40b6-872a-5f39a34d2ba4.png)
 
 Thank you for viewing my repository !
