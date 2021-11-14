@@ -49,7 +49,7 @@ https://drive.google.com/file/d/1XSevRCV-B8W0tkA4xlJ-Cmcvs-_gfAto/view?usp=shari
 -- If you imported a table, the newly-imported table will appear in the list of tables.
 
 ## Now run the main.py file
-###### Front Page
+###### Main Page
 
 ![Hotel](https://user-images.githubusercontent.com/85886688/129890579-d76dd8b5-57e0-44f0-a3da-286a1557390f.png)
 
