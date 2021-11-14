@@ -10,7 +10,7 @@ To reduce the work of managing data in Hotels, I created a Desktop-GUI applicati
 
 Click the below link to download and install xampp :
 
-https://drive.google.com/drive/folders/1YkHcKF-5tXjLwjpYx-7rjmHI7WzcEDKl?usp=sharing
+https://drive.google.com/file/d/1YwP3FPgMiRE8ymJpBACZUtYMNcLJ0Frm/view?usp=sharing
 
 ## Here's how you connect the server with xampp :
 
