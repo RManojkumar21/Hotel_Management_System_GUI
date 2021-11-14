@@ -32,10 +32,14 @@ def change():
 def password():
     global newpass,repass,oldpass,c
     c+=1
+    def exit():
+        "dummy function"
+        pass
     if c==1:
         root= Toplevel(root3)
         root.geometry("800x500")
         root.resizable(False,False)
+        root.protocol("WM_DELETE_WINDOW",exit)
         root.title("Change Password")
         root.configure(bg="grey20")
         Label(root,text="",bg="grey20").pack()
