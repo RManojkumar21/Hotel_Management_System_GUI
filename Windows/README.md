@@ -48,7 +48,7 @@ https://drive.google.com/file/d/1XSevRCV-B8W0tkA4xlJ-Cmcvs-_gfAto/view?usp=shari
 
 -- If you imported a table, the newly-imported table will appear in the list of tables.
 
-## Download the required Modules using Terminal :
+## Download the required Modules using Command Prompt :
  *Just copy the below command and press enter !*
  
  ### *pip install PyMySql*
